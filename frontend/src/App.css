@@ -1,0 +1,17 @@
+.form-control,.form-select{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.btn{
+  margin: auto;
+  display: inline;
+  margin-bottom: 1rem;
+  margin-right: 2rem;
+}
+
+form{
+  background-color: salmon;
+}
+.image-section{
+  background-color: lightblue;
+}
